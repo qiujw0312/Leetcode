@@ -17,7 +17,6 @@
 
 所有输入只包含小写字母 a-z 。
 
-
 链接：https://leetcode-cn.com/problems/longest-common-prefix
 '''
 
